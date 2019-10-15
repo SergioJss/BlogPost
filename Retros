@@ -1,0 +1,30 @@
+Today's Lesson
+
+
+
+
+What I have learned today was about Commands and how to use them. We've
+learned the basics and wrote them down to get used to them in MacOS and Linux.
+
+pwd - Where I am
+ls - more on folders (ls -all to show everything on an empty folder)
+Clear - Clear the command prompt
+cd - Change Directory (either go back or go inside a folder
+echo - Write on files
+cat - See what we wroe on the files
+rm/rm -rf - Delete files and/or force removal of folders
+mkdir - create a directory/folder
+touch - create a file
+mv - move or change the name of a folder/file
+nano - write or change moreinside of a file
+man - know the uses and capabilities of a command
+
+I really like the challenges of having to memorize a lot of commands and knowing
+the usages of every one of them. This can definitively help me to understand and
+optimize my usage and practice on different OS's at the moment of troubleshooting as an IT technician
+
+
+SIDE NOTE: become better at memorizing Commands and making them work. Don't
+be afraid of playing but CAREFUL WITH DELETING
+
+
